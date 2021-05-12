@@ -9,7 +9,7 @@ movie database API.
 There are many ways to do this, so you can choose whichever tech stack you
 are most comfortable with. You should be prepared to get a webpage up and
 running, for example with [Django](https://www.djangoproject.com/),
-[React](https://reactjs.org/), vanilla JavaScript, or something similiar
+[React](https://reactjs.org/), plain JavaScript, or something similiar
 to deliver HTML to a browser.
 
 
@@ -36,6 +36,6 @@ The pre-saved data is in data/search.json.
 ### Details
 You can get the details of a specific movie from the API with the `i` query parameter:
 
-    curl -XGET 'http://www.omdbapi.com/?apikey=[api-nyckeln]&i=[id]'
+    curl -XGET 'http://www.omdbapi.com/?apikey=[API-key]&i=[id]'
 
 The pre-saved data is in data/details.json.
