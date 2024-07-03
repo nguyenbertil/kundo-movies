@@ -36,6 +36,6 @@ The pre-saved data is in data/search.json.
 ### Details
 You can get the details of a specific movie from the API with the `i` query parameter:
 
-    curl -XGET 'http://www.omdbapi.com/?apikey=[API-key]&i=[id]'
+    curl -XGET 'http://www.omdbapi.com/?apikey=[API-key]&i=[imdbID]'
 
 The pre-saved data is in data/details.json.
