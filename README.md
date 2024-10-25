@@ -6,18 +6,16 @@ Kundo work case for potential job candidates. Let's implement a mini webapp!
 Together we will build a tiny competitor to IMDB, by using an existing
 movie database API.
 
-There are many ways to do this, so you can choose whichever tech stack you
-are most comfortable with. You should be prepared to get a webpage up and
-running, for example with [Django](https://www.djangoproject.com/),
-[React](https://reactjs.org/), plain JavaScript, or something similiar
-to deliver HTML to a browser.
+Create a webpage using [Django](https://www.djangoproject.com/) or [FastAPI](https://fastapi.tiangolo.com/). If you want to build a frontend in 
+React or plain JavaScript, that's also fine. Use the tools that showcases the skills needed for the role you are applying for. Try to show how
+you want to write code in a professional setting, what is important to you?
 
 
-The landing page should have a search box where you can search for movie
+The page should have a search function where you can search for movie
 titles. Search results should have their poster, title, and year
-displayed.
+displayed. Feel free to add other functionality you think would be fitting.
 
-Clicking on a movie result should bring you to a small details page,
+The movies should also have a small details page,
 where you can see the director and plot of the movie.
 
 ## The API
