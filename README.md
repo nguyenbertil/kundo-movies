@@ -6,8 +6,9 @@ Kundo work case for potential job candidates. Let's implement a mini webapp!
 Together we will build a tiny competitor to IMDB, by using an existing
 movie database API.
 
-Create a webpage using [Django](https://www.djangoproject.com/) or [FastAPI](https://fastapi.tiangolo.com/). If you want to build a frontend in 
-React or plain JavaScript, that's also fine. Use the tools that showcases the skills needed for the role you are applying for. Try to show how
+Create a webpage using [Django](https://www.djangoproject.com/) or [FastAPI](https://fastapi.tiangolo.com/). If you want to build a frontend in React or plain JavaScript, that's also fine. 
+We like working with pytest, we appreciate if you add some tests. 
+Use the tools that showcases the skills needed for the role you are applying for. Try to show how
 you want to write code in a professional setting, what is important to you?
 
 
