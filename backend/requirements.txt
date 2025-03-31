@@ -1,1 +1,9 @@
 fastapi[standard]==0.115.12
+
+pydantic-settings
+
+# Optional
+pytest==8.3.5
+pytest-asyncio==0.26.0
+respx==0.22.0
+
